@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173356283024",
+    "project_id": "enactus-dhi",
+    "storage_bucket": "enactus-dhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173356283024:android:06c2244dcddc835a191415",
+        "android_client_info": {
+          "package_name": "com.enactus.dhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv53ZdGcDlUhnBePZ0kd3f0giTMPFKw4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173356283024:android:6c28c27b81e44117191415",
+        "android_client_info": {
+          "package_name": "com.enactusmuj.dhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv53ZdGcDlUhnBePZ0kd3f0giTMPFKw4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
