@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:dhi/pages/home/hero_section.dart';
-import 'package:dhi/pages/home/knowledge_snacks.dart';
+import 'package:Dhi/pages/home/hero_section.dart';
+import 'package:Dhi/pages/home/knowledge_snacks.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
