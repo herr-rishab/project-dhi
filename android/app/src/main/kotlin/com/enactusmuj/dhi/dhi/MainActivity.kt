@@ -1,4 +1,4 @@
-package com.enactusmuj.dhi.dhi
+package com.enactusmuj.dhi
 
 import io.flutter.embedding.android.FlutterActivity
 
